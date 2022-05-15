@@ -1,1 +1,3 @@
 # CLOTHES
+#Bags
+#Shoes
